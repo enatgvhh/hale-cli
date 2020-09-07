@@ -44,4 +44,4 @@ Den java command führen wir letztendlich über einen Python *subprocess* aus. D
 
 
 ## Summary
-Mit dem hier vorgestellten Ansatz können wir die INSPIRE Anforderungen mit minimallem Aufwand erfüllen. Man kann das natürlich auch etwas professioneller angehen. Es fragt sich nur wie sinnvoll das ist, wenn ich meine originären 3D-Gebäudedaten bereits über einen 3D-View und Download-Service anbiete. Wer zum Himmels Willen braucht dann noch einen zweiten INSPIRE 3D-View und Download-Service.
+Mit dem hier vorgestellten Ansatz können wir die INSPIRE Anforderungen mit minimallem Aufwand erfüllen. Man kann das natürlich auch etwas professioneller angehen. Es fragt sich nur wie sinnvoll das ist, wenn man seine originären 3D-Gebäudedaten bereits über einen 3D-View und Download-Service anbiete.
